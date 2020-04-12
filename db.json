@@ -1,0 +1,29 @@
+{
+"products": [
+{"id":1,"city":"Quixadá","country":"Brazil"},
+{"id":2,"city":"Khueang Nai","country":"Thailand"},
+{"id":3,"city":"Banjar Susut Kaja","country":"Indonesia"},
+{"id":4,"city":"Zhoukoudian","country":"China"},
+{"id":5,"city":"Jiangbei","country":"China"},
+{"id":6,"city":"Florencia","country":"Cuba"},
+{"id":7,"city":"Stupari","country":"Bosnia and Herzegovina"},
+{"id":8,"city":"Pongola","country":"South Africa"},
+{"id":9,"city":"Chisec","country":"Guatemala"},
+{"id":10,"city":"Vailoa","country":"Samoa"},
+{"id":11,"city":"Älvdalen","country":"Sweden"},
+{"id":12,"city":"København","country":"Denmark"},
+{"id":13,"city":"Ocuviri","country":"Peru"},
+{"id":14,"city":"Črenšovci","country":"Slovenia"},
+{"id":15,"city":"Aurora","country":"Philippines"},
+{"id":16,"city":"Rezh","country":"Russia"},
+{"id":17,"city":"Jindaoxia","country":"China"},
+{"id":18,"city":"Luchenza","country":"Malawi"},
+{"id":19,"city":"Chuncheng","country":"China"},
+{"id":20,"city":"Calmar","country":"Canada"},
+{"id":21,"city":"Prado","country":"Portugal"},
+{"id":22,"city":"Babantar","country":"Indonesia"},
+{"id":23,"city":"San Isidro","country":"Philippines"},
+{"id":24,"city":"Nan","country":"Thailand"},
+{"id":25,"city":"Rzhev","country":"Russia"}
+]
+}
